@@ -29,8 +29,8 @@ Visualize the training/validation loss and accuracy over epochs to understand th
 
 # Program:
 ```Python
-# Developed by : MUKESH V
-# Reg No : 212222230086
+# Developed by : D.Vinitha Naidu
+# Reg No : 212222230175
 
 import numpy as np
 import tensorflow as tf
